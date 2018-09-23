@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+canvas{
+	padding: 0;
+	margin: auto;
+	display: block;
+	top: 2;
+	left: 0;
+	right: 0;
+    position :absolute;
+    border-style: solid;
+    border-color: #696969;
+    background: transparent;
+}
+#canvasBackground {
+    z-index: -1;
+}
+#canvasMain {
+    z-index: 0;
+}
+#signature {
+    position :absolute;
+    top: 500px;
+    left: 700px;
+    font-family: 'Griffy', cursive;
+    color:aliceblue;
+    
+}

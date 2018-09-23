@@ -1,0 +1,19 @@
+body {
+    background-color:black;
+}
+
+#buttonPlay{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    border: 2px solid #BABABA;
+    border-radius: 6px;
+}
+h1{
+    font-family: 'Griffy', cursive;
+    color: red;
+}
+
+h2, h3{
+    font-family: 'Jim Nightshade', cursive;
+    color:aliceblue;
+}

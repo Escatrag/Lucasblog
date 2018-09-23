@@ -1,0 +1,87 @@
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\bin\Debug\Jeu_1.exe
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\bin\Debug\Jeu_1.pdb
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\bin\Debug\Jeu_1.xml
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\Jeu_1.Form1.resources
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\Jeu_1.Resources.resources
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\Jeu_1.exe
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\Jeu_1.xml
+C:\Documents and Settings\samuel\Local Settings\Application Data\Temporary Projects\Jeu_1\obj\x86\Debug\Jeu_1.pdb
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.exe
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.xml
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.pdb
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form1.resources
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Resources.resources
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\bin\Debug\Jeu_1.exe
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\bin\Debug\Jeu_1.pdb
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\bin\Debug\Jeu_1.xml
+C:\Documents and Settings\samuel\mes documents\visual studio 2010\Projects\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form2.resources
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.exe
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.xml
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.pdb
+E:\Jeu_1\Jeu_1\bin\Debug\Jeu_1.exe
+E:\Jeu_1\Jeu_1\bin\Debug\Jeu_1.pdb
+E:\Jeu_1\Jeu_1\bin\Debug\Jeu_1.xml
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form1.resources
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form2.resources
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Resources.resources
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.vbproj.GenerateResource.Cache
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form3.resources
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.exe
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.xml
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.pdb
+D:\Jeu_1\Jeu_1\bin\Debug\Jeu_1.exe
+D:\Jeu_1\Jeu_1\bin\Debug\Jeu_1.pdb
+D:\Jeu_1\Jeu_1\bin\Debug\Jeu_1.xml
+D:\Jeu_1\Jeu_1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form1.resources
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form2.resources
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form3.resources
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form4.resources
+D:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Resources.resources
+D:\Jeu_1\Jeu_1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Jeu_1\Jeu_1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form4.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.exe
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.xml
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.pdb
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\bin\Debug\Jeu_1.exe
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\bin\Debug\Jeu_1.pdb
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\bin\Debug\Jeu_1.xml
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form1.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form2.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form3.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form4.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Resources.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.exe
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.xml
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.pdb
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\bin\Debug\Jeu_1.exe
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\bin\Debug\Jeu_1.pdb
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\bin\Debug\Jeu_1.xml
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form1.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form2.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form3.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form4.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Resources.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.exe
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.xml
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.pdb
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\bin\Debug\Jeu_1.exe
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\bin\Debug\Jeu_1.pdb
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\bin\Debug\Jeu_1.xml
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form1.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form2.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form3.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Form4.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.Resources.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Debug\Jeu_1.vbproj.GenerateResource.Cache

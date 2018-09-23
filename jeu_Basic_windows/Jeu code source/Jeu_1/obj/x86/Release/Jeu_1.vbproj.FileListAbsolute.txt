@@ -1,0 +1,49 @@
+E:\Jeu_1\Jeu_1\bin\Release\Jeu_1.exe
+E:\Jeu_1\Jeu_1\bin\Release\Jeu_1.pdb
+E:\Jeu_1\Jeu_1\bin\Release\Jeu_1.xml
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form1.resources
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form2.resources
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form3.resources
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Resources.resources
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.vbproj.GenerateResource.Cache
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.exe
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.xml
+E:\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.pdb
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\bin\Release\Jeu_1.exe
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\bin\Release\Jeu_1.pdb
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\bin\Release\Jeu_1.xml
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form1.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form2.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form3.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form4.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Resources.resources
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.vbproj.GenerateResource.Cache
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.exe
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.xml
+C:\Users\Luca\Desktop\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.pdb
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\bin\Release\Jeu_1.exe
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\bin\Release\Jeu_1.pdb
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\bin\Release\Jeu_1.xml
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form1.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form2.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form3.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form4.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Resources.resources
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.exe
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.xml
+C:\Documents and Settings\samuel\Bureau\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.pdb
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\bin\Release\Jeu_1.exe
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\bin\Release\Jeu_1.pdb
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\bin\Release\Jeu_1.xml
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form1.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form2.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form3.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Form4.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.Resources.resources
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.vbproj.GenerateResource.Cache
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.exe
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.xml
+C:\Users\Luca\Desktop\Programmation\Jeu\Jeu_1\Jeu_1\obj\x86\Release\Jeu_1.pdb
