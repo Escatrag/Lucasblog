@@ -1,0 +1,4 @@
+Pour télécharger python : www.python.org
+pour lancer le script : 
+-sous Windows : ouvrir avec Idle python, puis Run
+-sous Mac et Linux: python3 cours.Python.py
